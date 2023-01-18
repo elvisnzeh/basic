@@ -1,0 +1,32 @@
+.bg-light {
+    background-color: #1d2124!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+.big{
+	background-color: black;
+	color: white;
+	border-radius: 15%;
+    padding: 2%;
+   border-top: 13px solid yellow;
+    border-bottom: 13px solid yellow;
+    font-style: oblique;
+    font-weight: normal;
+
+}
+
+.gang{
+	text-align: center;
+}
+
+.kel{
+	text-align: center;
+}
+
+h5{
+	color: blue;
+}
